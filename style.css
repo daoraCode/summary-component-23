@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+
+a {
+    margin: 39px 20px;
+    font-size: 17px;
+    text-decoration: none;
+}
+
 :root {
     /* global font-weight */
     --font-weigth-bold-medium: 500;
